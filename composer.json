@@ -1,0 +1,13 @@
+{
+    "name": "misel228/legomario",
+    "description": "Generate Scan codes for Lego Super Mario",
+    "require": {
+        "fpdf/fpdf": "^1.82"
+    },
+    "authors": [
+        {
+            "name": "Stefan Misch",
+            "email": "misel@misel.de"
+        }
+    ]
+}
